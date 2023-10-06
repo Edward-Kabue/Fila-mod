@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Filament\Resources\PatientResource\Widgets;
+namespace App\Filament\Widgets;
 
 use App\Models\Patient;
 use Filament\Widgets\StatsOverviewWidget\Stat;
